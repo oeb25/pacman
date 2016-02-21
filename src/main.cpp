@@ -7,10 +7,8 @@
 #include <stdlib.h>
 #include <SDL.h>
 #include <map>
-#include "vector2.h"
 #include "level.h"
 #include "graphics.h"
-#include "world.h"
 #include "state.h"
 
 int main() {
